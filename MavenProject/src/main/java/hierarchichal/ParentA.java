@@ -8,6 +8,6 @@ public class ParentA
 	public void add()
 		{
 		sum = a+b;
-		System.out.println("Sum is: "+ sum);
+		System.out.println("Sum is : "+ sum);
 		}
 }
